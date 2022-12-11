@@ -1,0 +1,87 @@
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.AssemblyReference.cache
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmMain.resources
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.GenerateResource.cache
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.AssemblyInfoInputs.cache
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.AssemblyInfo.cs
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.CoreCompileInputs.cache
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.exe
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.deps.json
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.runtimeconfig.json
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.dll
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.pdb
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.dll
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\refint\QLSVKTX.dll
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.pdb
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.genruntimeconfig.cache
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\ref\QLSVKTX.dll
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmQLSV.resources
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmLogIn.resources
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.Properties.Resources.resources
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.CopyComplete
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmPhong.resources
+D:\Sang\HCMUE\Môn_học\2022-2023\CNPMNC\Cuoi_Ki\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmHoaDon.resources
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.exe
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.deps.json
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.runtimeconfig.json
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.dll
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.pdb
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmHoaDon.resources
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmLogIn.resources
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmMain.resources
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmPhong.resources
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmQLSV.resources
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.Properties.Resources.resources
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.AssemblyInfo.cs
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.CopyComplete
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.dll
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\refint\QLSVKTX.dll
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.pdb
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.genruntimeconfig.cache
+C:\Users\Admin\Documents\22 - 23 - HK1\CNPMNC\CK\QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\ref\QLSVKTX.dll
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.exe
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.deps.json
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.runtimeconfig.json
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.dll
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\QLSVKTX.pdb
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmHoaDon.resources
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmLogIn.resources
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmMain.resources
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmPhong.resources
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.frmQLSV.resources
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.Properties.Resources.resources
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.AssemblyInfo.cs
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.csproj.CopyComplete
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.dll
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\refint\QLSVKTX.dll
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.pdb
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\QLSVKTX.genruntimeconfig.cache
+C:\Users\Admin\Desktop\THHS_QLSVKTX\QLSVKTX\obj\Debug\net6.0-windows\ref\QLSVKTX.dll
